@@ -5,9 +5,6 @@ Flexbox criado com CSS3
 * HTML5
 * CSS3
 
-## Aplicação online
-* __[Aplicação](https://matheusmpessoa.github.io/flexbox-template/)__
-
 ## Tutorial
 Aplicação criada seguindo o __[tutorial](https://www.youtube.com/watch?v=k32voqQhODc&t=1003s)__ do __[canal](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)__
 
